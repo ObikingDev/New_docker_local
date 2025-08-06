@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>acada-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <url>http://nexus:8081/repository/maven-release-acada/</url>
+	      <url>http://172.19.58.181:8081/repository/acada_release/</url>
 	    </repository>
 
 	    <snapshotRepository>
 	      <id>acada-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <url>http://nexus:8081/repository/maven-snapshot-acada/</url>
+	      <url>http://172.19.58.181:8081/repository/acada_snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
@@ -156,5 +156,6 @@
 
 
 </project>
+
 
 
