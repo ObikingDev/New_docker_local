@@ -1,14 +1,14 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
     <servers>
         <server>
-            <id>acada-snapshot</id>
+            <id>acada_snapshot</id>
             <username>admin</username>
-            <password>admin123</password>
+            <password>obiking1010</password>
         </server>
         <server>
-            <id>acada-demo-release-repo</id>
+            <id>acada_release</id>
             <username>admin</username>
-            <password>admin123</password>
+            <password>obikin1010</password>
         </server>
     </servers>
 </settings>
